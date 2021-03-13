@@ -10,4 +10,4 @@
 
 ## E. [Figma Prototype](https://www.figma.com/file/lz80ufRWKNRBAxveyrVTP3/Prisoners-Aid-ACT-1st-Milestone?node-id=0%3A1)
 
-## F. [Design Document](https://www.figma.com/file/lz80ufRWKNRBAxveyrVTP3/Prisoners-Aid-ACT-1st-Milestone?node-id=0%3A1)
+## F. [Design Document](https://drive.google.com/drive/folders/1_eaOwfhJ-VV6CqNyua8PEvtNeyWCmudu?usp=sharing)
