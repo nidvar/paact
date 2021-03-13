@@ -1,6 +1,6 @@
 # Prisoners Aid (ACT)
 
-## A. [Project Drive](https://drive.google.com/drive/folders/1BeabQXseOI4Rv8tX_-RH8XyJZSSvgce0?usp=sharing){:target="_blank"}
+## A. [Project Drive](https://drive.google.com/drive/folders/1BeabQXseOI4Rv8tX_-RH8XyJZSSvgce0?usp=sharing)
 
 ## B. [Project Proposal](https://drive.google.com/drive/folders/1Rf7kO7kfCO4rhyzFu3JLq458qzXdcdkY?usp=sharing)
 
