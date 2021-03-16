@@ -1,6 +1,6 @@
 ## Rationale
 
-Why are you making this change? Describe the original problems — technical and/or business oriented, which originally necessitated it.
+This is for testing the git workflow
 
 ## Advice for Reviewers & Testing Notes
 
