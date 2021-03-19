@@ -1,0 +1,33 @@
+.ClientManagement{
+    border:1px solid black;
+    width:600px;
+    margin:auto;
+    padding:20px;
+}
+.ClientManagement h1{
+    text-align:center;
+}
+.myform{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.left-block, .right-block{
+    display:flex;
+    flex-direction:column;
+    min-width:250px;
+}
+
+.bottom-block{
+    display:flex;
+    flex-direction:column;
+}
+
+input, select, textarea{
+    margin:5px 0 5px 0;
+}
+  
+textarea{
+    min-height:80px;
+    width:300px;
+}
