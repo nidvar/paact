@@ -90,6 +90,7 @@ class ClientManagement extends React.Component {
                         </div>
                         <button>SUBMIT</button>
                     </form>
+                    <a href="/clist"><button className="back-button">BACK</button></a>
                 </div>
         )
     }
