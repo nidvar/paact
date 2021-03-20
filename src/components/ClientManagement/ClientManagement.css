@@ -1,5 +1,4 @@
 .ClientManagement{
-    border:1px solid black;
     width:600px;
     margin:auto;
     padding:20px;
@@ -30,4 +29,9 @@ input, select, textarea{
 textarea{
     min-height:80px;
     width:300px;
+}
+
+.back-button{
+    margin:40px auto 40px auto;
+    display:flex;
 }

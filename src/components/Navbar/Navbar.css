@@ -1,0 +1,26 @@
+.Navbar{
+    background-color:orange;
+}
+ul{
+    margin:0;
+}
+ul{
+    list-style:none;
+    text-transform: uppercase;
+    font-size:20px;
+    display:flex;
+    justify-content:flex-end;
+}
+li{
+    margin:20px;
+}
+li a:visited{
+    color:white;
+}
+li a:link{
+    text-decoration:none;
+    color:white;
+}
+li a:hover{
+    font-weight: bolder;
+}

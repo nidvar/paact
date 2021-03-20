@@ -1,1 +1,7 @@
-/* leave blank */
+body{
+    margin:0;
+    padding:0;
+}
+.App h1{
+    text-align: center;
+}
