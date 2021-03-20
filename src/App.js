@@ -1,25 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import ClientManagement from './components/ClientManagement/ClientManagement.js';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-          Testing from Jacin
-          Test if I can 'contaminate' main branch
-        </a>
-      </header>
+      <h1>PAACT</h1>
+      <ClientManagement />
     </div>
   );
 }
