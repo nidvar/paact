@@ -71,3 +71,14 @@ Go to http://localhost:3000/
 8. To stop the app running press Control+C.
 
 ----
+
+## Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+see also:
+[CRA docs](https://create-react-app.dev/docs/getting-started)
+
+## CoreUI Admin Template
+The dashboard makes use of the CoreUI Admin React Template [CoreUI for React](https://coreui.io/react/)
+
+[CoreUI React.js Admin Template](https://github.com/coreui/coreui-free-react-admin-template)
