@@ -1,18 +1,21 @@
 {
-  "name": "@coreui/coreui-free-react-admin-template",
-  "version": "3.2.1",
-  "description": "CoreUI React Open Source Bootstrap 4 Admin Template",
+  "name": "paact",
+  "version": "0.1.0",
+  "description": "CRM for PAACT",
   "author": {
-    "name": "CoreUI",
-    "url": "https://coreui.io",
-    "github": "https://github.com/coreui",
-    "twitter": "https://twitter.com/core_ui"
+    "name": "Code Sydney",
+    "url": "http://www.code.sydney",
+    "github": "https://github.com/codesydney"
   },
   "contributors": [
     {
-      "name": "CoreUI Team",
-      "url": "https://github.com/orgs/coreui/people"
-    }
+      "name": "Luci Temple",
+      "url": "https://github.com/lucitemple"
+    },
+    {"name": "Jacin Yan",
+      "url": "https://github.com/jacinyan"},
+      {"name": "Jay Nidvar",
+      "url": "https://github.com/nidvar"}
   ],
   "homepage": ".",
   "copyright": "Copyright 2017-2020 creativeLabs Łukasz Holeczek",
@@ -20,7 +23,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:coreui/coreui-free-react-admin-template.git"
+    "url": "https://github.com/codesydney/paact"
   },
   "dependencies": {
     "@coreui/chartjs": "^2.0.0",
