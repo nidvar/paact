@@ -4,7 +4,6 @@ import {
   CButton,
   CCard,
   CCardBody,
-  CCardGroup,
   CCol,
   CContainer,
   CForm,
@@ -30,7 +29,6 @@ class Login extends React.Component {
         <CContainer>
           <CRow className="justify-content-center">
             <CCol md="4">
-     
                 <CCard className="p-4">
                   <CCardBody>
                     <CForm>
@@ -54,7 +52,9 @@ class Login extends React.Component {
                       </CInputGroup>
                       <CRow>
                         <CCol xs="6">
-                          <CButton color="primary" className="px-4" onClick={()=>{console.log('logging in')}} >Login</CButton>
+                          <Link to="/dashboard">
+                            <CButton color="primary" className="px-4" onClick={()=>{console.log('logging in')}} >Login</CButton>
+                          </Link>
                         </CCol>
                         <CCol xs="6" className="text-right">
                           <CButton color="link" className="px-0">Forgot password?</CButton>
@@ -62,11 +62,12 @@ class Login extends React.Component {
                       </CRow>
                     </CForm>
                   </CCardBody>
-  
-                  <CButton color="link" className="px-0">Create new account</CButton>
-
+                  <CCol className="text-center">
+                    <Link to="/register">
+                      <CButton color="link" className="px-0">Create new account</CButton>
+                    </Link>
+                  </CCol>
                 </CCard>
-       
             </CCol>
           </CRow>
         </CContainer>
